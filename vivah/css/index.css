@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* box-sizing: border-box; */
+}
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+.navbar{
+    width: 100%;
+}
+
+.navbar-nav a{
+    margin-right: 30px;
+}
+
+.img-a img{
+    position: relative !important;
+    width: 100%;
+    height: 100%;
+}
+
+.wrapper-a{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.card{
+    position: absolute !important;
+    width: 500px;
+    right: 0px;
+    top: 30%;
+    margin-right: 66px;
+}
+
+.row{
+    margin: 5px 5px 5px 5px !important;
+}
+
+.navbar{
+    position: absolute !important;
+    z-index: 5;
+    margin-top: -25px !important;
+}
+
+.navbar-nav{
+    margin-right: 170px;
+}
+
+.navbar-brand{
+    font-size: 120px !important;
+    color: rgb(12, 100, 12) !important;
+}
+
+.nav-item > a {
+    font-size: 45px;
+    color: rgb(202, 30, 30) !important;
+    margin-right: 15px;
+    font-weight: 700;
+}
+
+.register{
+    font-size: xx-large;
+}
+
+.container-fluid .container{
+    overflow: hidden;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.wrapper{
+    position: relative !important;
+    background-image: url('../images/index.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height: 100vh !important;
+    
+    opacity: 0.8;
+}
+
+.form-h{
+    height: 100vh !important;
+}
+
+
+

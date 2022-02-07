@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* box-sizing: border-box; */
+}
+
+.p-div{
+    display: block;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.p-div p{
+    font-size: 60px;
+}
+
+.square-one{
+    height: 50px;
+    width: 143px;
+    background-color: black;
+    border-radius: 5px;
+  
+}
+
+.square-two{
+    height: 50px;
+    width: 143px;
+    background-color: black;
+    border-radius: 5px;
+  
+}
+
+.t-p , .s{
+    display: block;
+}
+
+.a-1, .a-2{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}

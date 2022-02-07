@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* box-sizing: border-box; */
+}
+
+.p-u{
+    display: block;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.p-u p{
+    font-size: 80px;
+}
+
+.d-flex{
+    margin-top: 100px;
+}

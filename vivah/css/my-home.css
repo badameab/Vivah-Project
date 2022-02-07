@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* box-sizing: border-box; */
+}
+
+.vivah{
+    display: block;
+}
+
+.vivah p{
+    color: green;
+    font-size: 60px;
+}
+
+.nav-item a{
+    color: #fff !important;
+    font-size: 20px;
+    margin-right: 30px;
+}
+
+.me{
+    height: 192px;
+    width: 192px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+.n-d{
+    display: block;
+    width: 100%;
+}
+
+.my-p{
+    margin-top: -70px;
+}
+
+.hi{
+        height: 50px !important;
+        width: 50px !important;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+}
+
+.message-r{
+    height: 100%;
+    border: 2px solid black;
+}
+
+.you{
+    height: 192px;
+    width: 192px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.one{
+    margin-bottom: 50px;
+}
+
+.div-btn{
+    display: block;
+}
+
+.btn{
+    width: 162px;
+}
